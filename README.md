@@ -1,1 +1,2 @@
 # Medical-ChatBot
+This Flask-based application brings to life a medical chatbot powered by Google's advanced Generative AI gemini-pro model. It seamlessly integrates with an SQLite3 database for secure user management, ensuring a smooth registration and login experience. The user interface, crafted with HTML, CSS, and JavaScript, offers an intuitive and engaging interaction. This innovative solution leverages cutting-edge technologies to provide users with a convenient and informative healthcare experience.
